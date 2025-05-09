@@ -48,7 +48,7 @@ Collect data using Voronoi (recommended for fastest decision-making speed):
 
 ```bash
 cd MAexp
-python env_v7_3_ft.py --yaml_file /path/to/MAexp/yaml/maze_ft.yaml
+python env_v8_ft.py --yaml_file /path/to/MAexp/yaml/maze_ft.yaml
 ```
 
 Data will be saved in `./test_make_data`. You can modify `index` at line 1072 in `env_v8_ft.py` to store data separately when running multiple environments.
