@@ -15,6 +15,8 @@ Our framework involves three core pre-training tasks—one focused on decision-m
 - **Map-prediction task:** Encourages agents to integrate features received from teammates and produce a unified exploration map. This task helps agents learn to leverage messages from their teammates.
 - **Location-estimation task:** Guides each agent to estimate its global coordinates while making decisions.
 
+If you find this project useful, please consider giving it a star on GitHub! It helps the project gain visibility and supports the development. Thank you!
+
 ## Quick Start
 
 ### 1. Environment Setup
