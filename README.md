@@ -31,6 +31,7 @@ Clone the repository and install necessary dependencies:
 conda activate maexp
 git clone https://github.com/DuangZhu/TaskExp.git
 pip install timm==0.3.2
+python modify.py
 ```
 
 Ensure your directory structure:
