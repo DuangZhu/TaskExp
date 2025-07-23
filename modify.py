@@ -20,7 +20,7 @@ def move_file(src, dest):
 
 if __name__ == "__main__":
     files_to_copy = [
-    ("./util/vision_transformer.py", "/root/anaconda3/envs/marllib/lib/python3.8/site-packages/timm/models/vision_transformer.py")
+    ("./util/vision_transformer.py", "timm/models/vision_transformer.py")
     ]
 
     copy_files(files_to_copy)
